@@ -1,0 +1,35 @@
+
+body{
+    background-color:antiquewhite;
+    color:crimson;
+    font-family: 'Maven Pro', sans-serif;
+
+
+}
+
+
+p{
+    color: blueviolet;
+}
+h1{
+    color: palevioletred;
+}
+
+
+.titulo{
+    color: blue;
+   font-size: 80px;
+
+}
+
+img{
+     width: 300px;
+     height: 300px ;
+}
+
+.imgen{
+    width: 250px;
+    height: 250px;
+}
+
+
